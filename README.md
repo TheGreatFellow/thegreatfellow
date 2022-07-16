@@ -38,6 +38,6 @@ My name is Shreyas Patil, and I am a passionate and creative engineer with a han
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=thegreatfellow&theme=radical&no-frame=true&no-bg=false&margin-w=10" />
 
-<!--
+
 [![](https://visitcount.itsvg.in/api?id=thegreatfellow&icon=0&color=11)](https://visitcount.itsvg.in)
--->
+
