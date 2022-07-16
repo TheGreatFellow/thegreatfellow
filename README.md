@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Hey there! Nice to see you <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
-My name is Shreyas Patil, and I am a passionate🥇 and creative🎨 engineer🔧 with a hands-on approach to problem-solving and an unending thirst for knowledge🎓. I am a Frontend Developer who loves building apps and websites with an aim to add a little sparkle✨ to the internet. Anything and everything that can be classified as technology💻 fascinate me.
+My name is Shreyas Patil, and I am a passionate and creative engineer with a hands-on approach to problem-solving and an unending thirst for knowledge. I am a Frontend Developer who loves building apps and websites with an aim to add a little sparkle✨ to the internet. Anything and everything that can be classified as technology fascinate me.
 
 <br/>
 <br/>
